@@ -1,0 +1,19 @@
+{
+  "name": "AesthetiCalc",
+  "icons": [
+    {
+      "src": "icon192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#cdbcd1",
+  "background_color": "#cdbcd1"
+}
