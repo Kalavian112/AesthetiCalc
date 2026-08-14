@@ -1,6 +1,6 @@
 # AesthetiCalc
 
-A simple calculator I made in 2 days, mainly to learn about parsing input. Also works as a PWA.
+A simple calculator I made in 2 days in pure HTML, CSS, and JavaScript. I created it mainly to learn about parsing input and various other algorithms. Also works as a progressive web app.
 
 ## Third Party Credits/Licenses
 
