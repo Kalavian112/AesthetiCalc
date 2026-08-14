@@ -52,6 +52,7 @@ td {
 	transition: 0.1s;
 	font-size: 24px;
 }
-td:active {
-	background-color: #d8c7db;
-}
+@media (hover: hover) {
+	td:hover {
+		background-color: #d8c7db;
+	}
